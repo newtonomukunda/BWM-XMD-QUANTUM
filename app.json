@@ -76,7 +76,7 @@
    "STATUS_REACT_EMOJIS": {
       "description": "Enter your auto like status emojis",
       "value": "💚,🚀,🌎,💯,🫂,😂,✅",
-      "required": false 
+      "required": true 
     },
     "AUTO_REACT": {
       "description": "Enter your auto react messages",
@@ -86,12 +86,12 @@
    "AUTO_REACT_STATUS": {
       "description": "Enter yes for your bot to auto like status",
       "value": "yes",
-      "required": false 
+      "required": yes 
     },
     "OWNER_NAME": {
       "description": "Owner name",
       "value": "AndalaTheMr",
-      "required": false
+      "required": true
     },
     "SESSION_ID": {
       "description": "Your session ID",
