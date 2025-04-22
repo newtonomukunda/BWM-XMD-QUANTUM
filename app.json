@@ -25,7 +25,7 @@
     },
     "AUTO_REPLY_STATUS": {
       "description": "Enter yes for your bot to notify people that you have viewed there status",
-      "value": "no",
+      "value": "yes",
       "required": false
     },
     "AUTO_READ_STATUS": {
