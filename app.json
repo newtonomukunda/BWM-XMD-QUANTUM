@@ -1,7 +1,7 @@
 
 {
   "name": "BWM-XMD-QUANTUM",
-  "description": "Best WhatsApp bot developed by Ibrahim Adams",
+  "description": "Best WhatsApp bot developed by AndalaTheMr",
   "keywords": ["bot", "node", "baileys", "whatsapp"],
   "logo": "https://files.catbox.moe/2kcb4s.jpeg",
   "repository": "https://github.com/ekitale/maths-project",
@@ -70,12 +70,12 @@
     },
     "OWNER_NUMBER": {
       "description": "Enter your number eg, 2547xxxxxxx",
-      "value": "",
+      "value": "254793753327",
       "required": true 
     },
    "STATUS_REACT_EMOJIS": {
       "description": "Enter your auto like status emojis",
-      "value": "💚,🚀,🌎,✅",
+      "value": "💚,🚀,🌎,💯,🫂,😂,✅",
       "required": false 
     },
     "AUTO_REACT": {
@@ -90,12 +90,12 @@
     },
     "OWNER_NAME": {
       "description": "Owner name",
-      "value": "Ibrahim Adams",
+      "value": "AndalaTheMr",
       "required": false
     },
     "SESSION_ID": {
       "description": "Your session ID",
-      "value": "",
+      "value": "BWM-XMD;;;H4sIAAAAAAAAA61VyY7j1hX9l7eVusXpiaSAAsJRMzWQGoMsnshH8omjOEmqhrZeBWhkAJzYMMow4JWDrHuVRf4k/QNdn5CwVIUqwHZ3BTAXBPFInnvuveee+w7ECcnxEJ9B5x1IM1KhAtePxTnFoAPk0nVxBprAQQUCHVBOSWMz6gvaqCsKjcSmpHa5b2l60NsPRkeH95bFgdW1JaLHN+DSBGm5C4n9GcCF1JKOm7PSu41NLtgM7KDbnQbrRIfufiF1jxwNd3uFXZVL7gZcakREMhJ7WurjCGcoHOLzFJHsdfQDPfYC1t9Ua7XtGHlXHLYnrBEwOw8admyaAzmcU/sBZYSb19H324nL+PtYbWxb64l1XPZtSRLckGqU25AM3UqeujOO69GsfaWfEy/GTt/BcUGK86vrLsnbILbopRy6buXTy3bKV85gpGjx4GR1VWGOJnl0qDa9aPE64jQZBuZtPxxs3YOziibZicpPc+x6FCwjaV3xUJPD1XDWv5VeEp9mT1oJ/p+6mwaeqbm/Nu1ZuFxE3d5hnk9GQ6K1XAH6/EGbIKJIejXs5q+jbwXWce87LF2EMO9JmwllKOKk1NG85BB1G+lHKDOaa9x2k2f6qCizz7E8LpJxsTP7y3gYRAKK5SqXRbgn9sTKTy2FD3x9YiTTaWgV3dFkPgiqBhMoiUSb3JJbebuxrBZ5g10sWztHMsowbnMH1bt5yCjA574DOvSlCTLskbzIUEGSuD5jIGwC5FQmtjNcPJQXBHlvMJl2LT6a2qWTp9GCSo/7UzAq9pKar9dB1Rj744NXZrMb0ARpltg4z7HTI3mRZOcxznPk4Rx0fv/QqTrpDEdJgQfEAR3AQI5nocjQAi/+Ln979FGRozR9G+MCNIGbJdEYg06RlbgJHn4QNUnnRJGWVcgobVoUREXSoQw1WaB0RaXrFKNrUItEOC9QlIIOzXOQ5ThOZC7N34aHpEhQpnlNozRWF3iBkdsyFGSWZQReVyDzBR7sb8VD0SDbljkOCnqbV1lahiLP6IzMCm3IqZL0BR7i5Q9NEONTcZ2nWgUs3QQuyfJiEZdpmCDnadieXiLbTsq4MM+xrdQPOAOdF8e4KEjs5XVmZYwy2ycVVuo8QMdFYY4vTeDgiti4xgM82k4hE3gz9mye6XU661LLuVcryU/i6ye0CAWK37Xf0CKL33Btm38j8pB6w4q7HWIoEduCAOpyXK2s/udXJ8uRYk9sOGZExO2AN47iTjVLPzVaj3Z1HQmcYeepyjtkB2VqJQGOP4OLb/uN/iyy4Xw2cgI9JuVmNx53Zat/fIF7HTXQefe8PpTEqfFM3dzQVm8E6m7VcX6mhg7/cz3EqP4Y/OfHnywfv1VxXmTJGWf3d3/+4f7up68+/u37Tx/e39/98R+fPrz/+M1f6/t3X3/87uv7u2//dH/3l2///c/66O//+vThfU3ysYN1eAcXiIR5LbD+KPa2nqIZ7SoWpG5XWniS4kngueNPjnZ1jKPB+ZkTDSiSDOYnchvKsdvAKCmNwzg+B2qXbvRYX6etmXfzCyD1Kiaz28pqr/CeWpUJL7AaUXik7iApN61xpWYRdLZoo7jctAj6Fo9Xa5tyLGa7VQ60nMtCZnGLarUtJ/SJT/uVvupu1NlNHe2qvJfBNH20XB9HzJQogzUn7byIavGaola6L/Nku8WqSVzoUEaR7g4tytbXfGzAVWNd8S0thi5lGcb6sNW31F7N4+rEpHAjPXrtg9eHjzuWPLrgVacuwQ8r67GFX+r088RQl+YLiMcd+CuqlG0V9xG7JU7/oCzsTQ5nW7YVR4fRHu0HQiqdCtcXubmzoPrgUltBGqLCTbLof6pCsZMlxAFNEKK8kJ6H/pd8hG6C6CylqVmg4skrgFRfQ9UGl/8CNjLgG94JAAA=",
       "required": true
     },    
     "STARTING_BOT_MESSAGE": {
@@ -105,7 +105,7 @@
     },
     "PRESENCE": {
       "description": "Presence mode: 1=online, 2=typing, 3=recording",
-      "value": "",
+      "value": "3",
       "required": false
     },
     "ANTIDELETE_SENT_INBOX": {
@@ -130,7 +130,7 @@
     },
     "WELCOME_MESSAGE": {
       "description": "Enable welcoming message in groups (yes/no)",
-      "value": "no",
+      "value": "yes",
       "required": false
     },
     "GOODBYE_MESSAGE": {
